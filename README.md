@@ -1,14 +1,14 @@
-## Halo there! Luna Kharisma here 👋
+# Halo there! Luna Kharisma here 👋
 
 I'm 1st Year Data Engineering students 👩🏻‍💻!
 Universiti Teknologi Malaysia 🏫
 
-## About Me ✨
+# About Me ✨
 🤍 Name: Luna Kharisma
 
 🎧 Hobby: Reading, music, and editing
 
 💻 Learning: Programming, C++, Java
 
-## Contact ☎️
+# Contact ☎️
 - Email: lunakharisma@graduate.utm.my
