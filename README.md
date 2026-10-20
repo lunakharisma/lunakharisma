@@ -6,9 +6,9 @@ Universiti Teknologi Malaysia 🏫
 ## About Me ✨
 🤍 Name: Luna Kharisma
 
-🎧 Hobby: Reading, coding, and editing
+🎧 Hobby: Reading, music, and editing
 
-💻 Learning: Programming and Github 
+💻 Learning: Programming, C++, Java
 
 ## Contact ☎️
 - Email: lunakharisma@graduate.utm.my
