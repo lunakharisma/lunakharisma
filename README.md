@@ -5,7 +5,7 @@ Universiti Teknologi Malaysia
 
 ## About Me
 - Name: Luna Kharisma
-- Hobby: Reading, coding, dan editing
+- Hobby: Reading, coding, and editing
 - Learning: Programming and Github 
 
 ## Contact
