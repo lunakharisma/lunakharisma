@@ -12,3 +12,4 @@ Universiti Teknologi Malaysia 🏫
 
 # Contact ☎️
 - Email: lunakharisma@graduate.utm.my
+- Linkedln : https://www.linkedin.com/in/luna-kharisma-882980442?trk=contact-info
